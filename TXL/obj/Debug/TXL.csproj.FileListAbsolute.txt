@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\C#.NET\通讯录\TXL\TXL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#.NET\通讯录\TXL\TXL\obj\Debug\TXL.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#.NET\通讯录\TXL\TXL\obj\Debug\TXL.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#.NET\通讯录\TXL\TXL\bin\Debug\TXL.exe.config
+C:\Users\Administrator\Desktop\C#.NET\通讯录\TXL\TXL\bin\Debug\TXL.exe
+C:\Users\Administrator\Desktop\C#.NET\通讯录\TXL\TXL\bin\Debug\TXL.pdb
+C:\Users\Administrator\Desktop\C#.NET\通讯录\TXL\TXL\obj\Debug\TXL.exe
+C:\Users\Administrator\Desktop\C#.NET\通讯录\TXL\TXL\obj\Debug\TXL.pdb
+C:\Users\Administrator\Desktop\C#.NET\通讯录\TXL\TXL\obj\Debug\TXL.LoginFrm.resources
+C:\Users\Administrator\Desktop\C#.NET\通讯录\TXL\TXL\obj\Debug\TXL.MainFrm.resources
